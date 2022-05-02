@@ -1,3 +1,3 @@
 # tiddy_template
 
-[link](https://github.com/skynocover/artificial_intelligence)
+[link](https://skynocover.github.io/artificial_intelligence/)
